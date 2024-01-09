@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jh_3rd_pj/static/css/main.8d89bd8a.css",
+    "main.js": "/jh_3rd_pj/static/js/main.99e93747.js",
+    "static/media/Pretendard-Regular.woff": "/jh_3rd_pj/static/media/Pretendard-Regular.21b4bbcb93a4b1214f7d.woff",
+    "static/media/massage1.jpg": "/jh_3rd_pj/static/media/massage1.e4a7bf69acb12084eca1.jpg",
+    "static/media/pt2_bgi.jpg": "/jh_3rd_pj/static/media/pt2_bgi.91541e0fcd22c8a1ad3a.jpg",
+    "static/media/pt3-4.jpg": "/jh_3rd_pj/static/media/pt3-4.54c3ba817c98c6731c1b.jpg",
+    "static/media/MinervaModern-Regular.woff": "/jh_3rd_pj/static/media/MinervaModern-Regular.bea55d8fe09a5549bc1f.woff",
+    "static/media/MinervaModern-Bold.woff": "/jh_3rd_pj/static/media/MinervaModern-Bold.5c85ef7c41ca35fa931e.woff",
+    "index.html": "/jh_3rd_pj/index.html",
+    "main.8d89bd8a.css.map": "/jh_3rd_pj/static/css/main.8d89bd8a.css.map",
+    "main.99e93747.js.map": "/jh_3rd_pj/static/js/main.99e93747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d89bd8a.css",
+    "static/js/main.99e93747.js"
+  ]
+}
